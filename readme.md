@@ -1,6 +1,6 @@
 #### isLight
 
-Check the format of the color, HEX or RGB?
+Check Brightness color, light or dark?
 
 ```npm i islight```
 
