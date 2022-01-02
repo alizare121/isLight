@@ -1,7 +1,15 @@
+#### isLight
+
 Check the format of the color, HEX or RGB?
+
+```npm i islight```
+
+[npm link]('https://www.npmjs.com/package/islight')
 
 for example :
 
-import isLight from 'isLight';
+```javascript
+import isLight from 'islight';
 
 isLight('#FF77') // true 
+```
