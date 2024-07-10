@@ -4,7 +4,7 @@ Check Brightness color, light or dark?
 
 ```npm i islight```
 
-[npm link]('https://www.npmjs.com/package/islight')
+[npm link](https://www.npmjs.com/package/islight)
 
 for example :
 
